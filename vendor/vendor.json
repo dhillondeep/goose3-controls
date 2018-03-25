@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "GEfHrZEDyPhPTdCcyeMffbFFoKE=",
+			"path": "github.com/tarm/serial",
+			"revision": "eaafced92e9619f03c72527efeab21e326f3bc36",
+			"revisionTime": "2018-01-14T05:17:09Z"
+		},
+		{
+			"checksumSHA1": "Nh9BgHgH4lK1FayljdSCSLWP9Qk=",
+			"path": "github.com/waterloop/wcomms/wjson",
+			"revision": "dc9ed985203155ce85f284ac34195f2007c8d6a1",
+			"revisionTime": "2018-03-25T17:19:06Z"
+		},
+		{
+			"checksumSHA1": "QQIGf/lv74hEiPGf8+j4Ha5xzuM=",
+			"path": "wcomms/wbinary",
+			"revision": "dc9ed985203155ce85f284ac34195f2007c8d6a1",
+			"revisionTime": "2018-03-25T17:19:06Z"
+		}
+	],
+	"rootPath": "goose3-controls"
+}
